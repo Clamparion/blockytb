@@ -4,3 +4,9 @@ m.facebook.com
 facebook.com
 twitter.com
 instagram.com
+www.youtube.com
+www.m.youtube.com
+www.m.facebook.com
+www.facebook.com
+www.twitter.com
+www.instagram.com
